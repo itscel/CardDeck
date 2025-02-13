@@ -1,0 +1,14 @@
+D:\Ceril\Github\Mobdev_C\mobdev\obj\Debug\net9.0\mobdev.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ceril\Github\Mobdev_C\mobdev\obj\Debug\net9.0\mobdev.AssemblyInfoInputs.cache
+D:\Ceril\Github\Mobdev_C\mobdev\obj\Debug\net9.0\mobdev.AssemblyInfo.cs
+D:\Ceril\Github\Mobdev_C\mobdev\obj\Debug\net9.0\mobdev.csproj.CoreCompileInputs.cache
+D:\Ceril\Github\Mobdev_C\mobdev\bin\Debug\net9.0\mobdev.exe
+D:\Ceril\Github\Mobdev_C\mobdev\bin\Debug\net9.0\mobdev.deps.json
+D:\Ceril\Github\Mobdev_C\mobdev\bin\Debug\net9.0\mobdev.runtimeconfig.json
+D:\Ceril\Github\Mobdev_C\mobdev\bin\Debug\net9.0\mobdev.dll
+D:\Ceril\Github\Mobdev_C\mobdev\bin\Debug\net9.0\mobdev.pdb
+D:\Ceril\Github\Mobdev_C\mobdev\obj\Debug\net9.0\mobdev.dll
+D:\Ceril\Github\Mobdev_C\mobdev\obj\Debug\net9.0\refint\mobdev.dll
+D:\Ceril\Github\Mobdev_C\mobdev\obj\Debug\net9.0\mobdev.pdb
+D:\Ceril\Github\Mobdev_C\mobdev\obj\Debug\net9.0\mobdev.genruntimeconfig.cache
+D:\Ceril\Github\Mobdev_C\mobdev\obj\Debug\net9.0\ref\mobdev.dll
